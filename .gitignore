@@ -1,0 +1,8 @@
+# Ignore the following files
+*.log
+MANIFEST.txt
+build
+build/*
+tools/servers/jetty/work/*
+tools/servers/jetty/logs/*
+!.gitignore
